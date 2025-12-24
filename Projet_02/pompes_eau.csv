@@ -1,0 +1,801 @@
+ID_Pompe,Date_Installation,Qualite_Eau,Type_Pompe,Installateur,Statut
+1,1991-02-28,Good,Submersible,NGO,Broken
+2,1994-07-29,Good,Hand Pump,Gov,Broken
+3,1994-12-31,Good,Submersible,Gov,Broken
+4,2018-09-14,Milky,Submersible,NGO,Broken
+5,2000-04-30,,Hand Pump,Gov,Broken
+6,1995-03-28,Good,Hand Pump,Gov,Broken
+7,2014-02-19,Good,Hand Pump,Private,Broken
+8,2011-02-26,Good,Hand Pump,Gov,Functional
+9,2014-12-29,Good,Hand Pump,NGO,Functional
+10,2013-05-15,Salty,Hand Pump,Gov,Functional
+11,2022-07-28,Good,Submersible,Gov,Broken
+12,2014-03-16,Good,Hand Pump,Gov,Broken
+13,1990-07-04,Good,Hand Pump,Gov,Functional
+14,1991-04-20,Good,Hand Pump,,Broken
+15,1990-01-04,Good,Submersible,Private,Broken
+16,2019-05-17,Good,Hand Pump,NGO,Functional
+17,2003-02-15,Good,Hand Pump,NGO,Functional
+18,2004-07-17,Milky,Submersible,NGO,Broken
+19,2002-11-25,Salty,Hand Pump,Gov,Broken
+20,2008-08-17,Good,Hand Pump,NGO,Functional
+21,2002-09-10,Salty,Hand Pump,Gov,Functional
+22,1997-01-27,Good,Submersible,NGO,Functional
+23,1998-03-02,Good,Hand Pump,Private,Functional
+24,2001-07-02,Milky,Hand Pump,Private,Broken
+25,2001-04-29,Good,Hand Pump,NGO,Broken
+26,2009-07-08,Good,Hand Pump,Private,Functional
+27,1996-11-07,Salty,Hand Pump,Gov,Broken
+28,1996-04-15,Milky,Hand Pump,Gov,Broken
+29,1991-01-24,Good,Submersible,Gov,Broken
+30,2007-08-15,,Hand Pump,Gov,Broken
+31,1998-07-30,Good,Hand Pump,Gov,Functional
+32,1990-11-15,Good,Submersible,Gov,Broken
+33,2021-01-03,,Submersible,NGO,Functional
+34,2011-11-04,Good,Hand Pump,Gov,Broken
+35,1990-07-29,Salty,Hand Pump,Private,Broken
+36,1997-01-30,,Submersible,Private,Broken
+37,1998-04-08,Good,Hand Pump,NGO,Broken
+38,2006-07-09,Good,Submersible,,Functional
+39,2008-10-11,,Submersible,NGO,Broken
+40,2016-05-09,Good,Hand Pump,NGO,Functional
+41,2005-01-09,Good,Submersible,Gov,Functional
+42,1997-01-30,Good,Hand Pump,Gov,Broken
+43,2004-02-19,Good,Hand Pump,Gov,Broken
+44,1993-07-22,Salty,Hand Pump,Gov,Broken
+45,2013-10-21,Good,Submersible,Gov,Broken
+46,1997-08-05,Good,Submersible,NGO,Broken
+47,1998-01-11,,Hand Pump,Private,Broken
+48,2008-10-21,Good,Hand Pump,Private,Functional
+49,2021-06-27,Salty,Hand Pump,NGO,Broken
+50,2000-06-01,Salty,Submersible,Gov,Broken
+51,2000-02-20,Good,Submersible,Private,Broken
+52,2019-05-02,Good,Hand Pump,NGO,Functional
+53,2011-06-06,Milky,Submersible,Private,Functional
+54,1991-04-24,Good,Submersible,NGO,Broken
+55,2004-06-21,Good,Hand Pump,Private,Functional
+56,2022-08-01,Good,Hand Pump,NGO,Functional
+57,1991-06-06,Good,Hand Pump,NGO,Broken
+58,2010-09-06,,Hand Pump,Gov,Broken
+59,2009-01-18,Milky,Hand Pump,Private,Functional
+60,2000-10-18,Good,Submersible,NGO,Functional
+61,2001-07-22,Good,Hand Pump,Private,Broken
+62,1996-10-07,Good,Submersible,Private,Broken
+63,2005-03-30,Good,Hand Pump,Gov,Broken
+64,1997-10-22,Good,Submersible,Private,Broken
+65,1993-06-14,Good,Submersible,Private,Broken
+66,2003-01-01,Good,Hand Pump,NGO,Functional
+67,2009-01-19,Good,Hand Pump,NGO,Broken
+68,2004-09-06,Good,Hand Pump,Gov,Broken
+69,1992-07-26,Salty,Hand Pump,Gov,Broken
+70,1993-10-06,Good,Hand Pump,NGO,Broken
+71,2007-10-21,Milky,Submersible,Gov,Broken
+72,2000-07-16,Milky,Hand Pump,Private,Broken
+73,1997-05-31,Good,Hand Pump,Private,Broken
+74,2004-06-17,Good,Hand Pump,Gov,Broken
+75,2019-08-04,Good,Submersible,Gov,Functional
+76,2005-04-01,Good,Hand Pump,Gov,Broken
+77,1993-01-08,Salty,Submersible,Gov,Broken
+78,2000-04-05,Salty,Hand Pump,NGO,Broken
+79,2000-01-18,Good,Submersible,Private,Broken
+80,1994-02-15,Good,Hand Pump,NGO,Broken
+81,2021-01-30,Good,Submersible,Private,Broken
+82,2010-05-10,Salty,Hand Pump,Gov,Broken
+83,2017-02-13,Good,Hand Pump,Gov,Broken
+84,2014-05-22,Good,Hand Pump,Gov,Functional
+85,2000-12-08,Good,Hand Pump,Private,Broken
+86,1994-09-03,Good,Submersible,Gov,Broken
+87,1994-05-14,Good,Hand Pump,Private,Functional
+88,1999-12-03,Salty,Submersible,Gov,Broken
+89,2014-12-05,Good,Submersible,Gov,Broken
+90,1995-12-26,Salty,Hand Pump,Private,Broken
+91,2003-05-03,Good,Hand Pump,Gov,Broken
+92,2002-02-04,Milky,Hand Pump,Gov,Broken
+93,2010-12-30,Good,Hand Pump,NGO,Functional
+94,1996-09-10,Good,Hand Pump,Gov,Broken
+95,2014-11-22,Salty,Submersible,NGO,Broken
+96,1990-08-29,Good,Submersible,Private,Broken
+97,2005-05-20,Salty,Hand Pump,NGO,Functional
+98,2021-10-07,Salty,Submersible,,Functional
+99,2004-12-03,Salty,Hand Pump,Gov,Broken
+100,2015-11-02,Good,Hand Pump,,Functional
+101,2004-03-25,Good,Hand Pump,Gov,Broken
+102,2003-07-12,Good,Hand Pump,NGO,Functional
+103,2020-11-06,,Submersible,NGO,Broken
+104,2008-08-07,Good,Hand Pump,Gov,Functional
+105,1994-04-17,Salty,Hand Pump,Gov,Broken
+106,2010-06-22,Good,Hand Pump,NGO,Broken
+107,2005-06-18,Milky,Submersible,NGO,Broken
+108,2004-02-26,Good,Submersible,NGO,Functional
+109,2010-12-21,Good,Hand Pump,Gov,Functional
+110,2018-11-11,Salty,Submersible,NGO,Broken
+111,2001-07-10,Milky,Hand Pump,,Broken
+112,2008-12-25,Salty,Hand Pump,,Broken
+113,2010-01-04,Good,Submersible,Gov,Broken
+114,1990-10-27,Good,Submersible,Gov,Broken
+115,1995-06-27,Good,Hand Pump,Gov,Broken
+116,2007-08-01,Good,Submersible,Gov,Broken
+117,1990-10-27,Salty,Submersible,NGO,Broken
+118,2018-12-31,Good,Submersible,NGO,Broken
+119,2020-07-28,Good,Hand Pump,Private,Functional
+120,1995-10-11,Good,Submersible,Private,Functional
+121,2011-01-14,Good,Submersible,Gov,Functional
+122,2007-08-06,Salty,Hand Pump,,Broken
+123,2017-11-30,Salty,Hand Pump,Private,Functional
+124,1997-02-28,Good,Submersible,,Broken
+125,2018-10-17,Salty,Submersible,Gov,Functional
+126,2009-02-07,Good,Hand Pump,NGO,Broken
+127,2010-05-26,Good,Hand Pump,NGO,Functional
+128,1994-04-29,Good,Submersible,Gov,Functional
+129,2006-05-31,Milky,Hand Pump,NGO,Functional
+130,1993-10-17,Milky,Submersible,Gov,Broken
+131,1990-10-08,Good,Submersible,Gov,Broken
+132,1998-03-11,Good,Hand Pump,NGO,Broken
+133,2008-06-13,Salty,Submersible,Gov,Broken
+134,2000-07-22,Good,Hand Pump,Private,Broken
+135,2019-03-13,Good,Hand Pump,Gov,Functional
+136,2022-06-14,Salty,Hand Pump,NGO,Broken
+137,1999-06-15,Salty,Hand Pump,Gov,Broken
+138,2022-08-26,Salty,Submersible,Gov,Functional
+139,1999-09-11,Good,Hand Pump,Private,Broken
+140,2009-04-20,,Submersible,Gov,Functional
+141,2021-12-28,Salty,Submersible,Private,Functional
+142,2021-03-11,Good,Hand Pump,Gov,Broken
+143,2014-07-01,Good,Submersible,Gov,Functional
+144,1990-06-25,Salty,Hand Pump,NGO,Broken
+145,2001-03-24,Good,Hand Pump,Gov,Broken
+146,2018-04-04,Good,Hand Pump,Private,Broken
+147,2021-11-21,,Hand Pump,NGO,Broken
+148,1997-03-12,Good,Hand Pump,NGO,Broken
+149,1995-03-12,Salty,Submersible,NGO,Broken
+150,2009-05-15,,Submersible,NGO,Broken
+151,1997-10-17,Good,Hand Pump,Gov,Broken
+152,2014-10-19,Good,Submersible,Gov,Functional
+153,2002-01-29,Good,Submersible,Gov,Functional
+154,2010-07-11,Good,Submersible,NGO,Functional
+155,2013-06-21,Good,Hand Pump,NGO,Functional
+156,2011-04-24,Good,Hand Pump,Gov,Functional
+157,2008-10-26,Salty,Submersible,Gov,Broken
+158,2006-06-14,Salty,Hand Pump,Private,Functional
+159,1993-06-29,Good,Submersible,Gov,Functional
+160,2001-06-27,Milky,Hand Pump,Private,Broken
+161,1994-12-29,Milky,Hand Pump,Gov,Broken
+162,2008-01-29,Good,Submersible,Gov,Broken
+163,1995-08-15,Milky,Hand Pump,Private,Broken
+164,2006-07-17,Good,Submersible,NGO,Functional
+165,1997-06-12,Good,Submersible,Gov,Broken
+166,2019-09-06,Good,Submersible,Gov,Functional
+167,1999-07-31,Good,Submersible,Gov,Broken
+168,2004-12-14,Good,Hand Pump,Gov,Broken
+169,1997-05-28,Milky,Hand Pump,NGO,Broken
+170,2013-04-11,Good,Hand Pump,NGO,Broken
+171,1999-05-26,Good,Hand Pump,Gov,Functional
+172,2022-03-05,Good,Submersible,Gov,Functional
+173,2006-06-05,Good,Submersible,NGO,Broken
+174,2006-07-21,Good,Hand Pump,NGO,Broken
+175,1998-08-07,Milky,Submersible,NGO,Broken
+176,1994-01-23,Good,Hand Pump,NGO,Functional
+177,2005-11-11,Good,Hand Pump,Gov,Functional
+178,2007-09-27,Milky,Hand Pump,Gov,Broken
+179,2006-02-12,Good,Submersible,Gov,Broken
+180,2004-06-16,Salty,Submersible,NGO,Broken
+181,2006-10-09,Good,Hand Pump,NGO,Functional
+182,2012-07-18,Milky,Hand Pump,Gov,Broken
+183,1990-02-06,Salty,Hand Pump,,Broken
+184,2001-11-19,Milky,Hand Pump,Gov,Broken
+185,1999-06-16,Good,Submersible,Gov,Broken
+186,2005-05-08,,Hand Pump,Private,Broken
+187,2011-12-01,Good,Hand Pump,,Functional
+188,2016-02-16,Milky,Submersible,Private,Functional
+189,1993-11-17,Good,Hand Pump,Gov,Functional
+190,2020-12-05,Salty,Hand Pump,Gov,Functional
+191,1999-11-11,Good,Hand Pump,Gov,Broken
+192,2008-11-03,Good,Hand Pump,Private,Functional
+193,2003-06-25,Salty,Submersible,Private,Broken
+194,1999-11-18,Salty,Hand Pump,Gov,Broken
+195,2015-04-04,Good,Hand Pump,Gov,Functional
+196,2021-10-18,Good,Submersible,NGO,Functional
+197,2016-04-28,Good,Hand Pump,Gov,Functional
+198,2006-02-26,Good,Hand Pump,Private,Functional
+199,2022-01-25,Milky,Hand Pump,Private,Broken
+200,2018-07-30,Salty,Hand Pump,Private,Broken
+201,2005-09-06,Good,Hand Pump,Gov,Functional
+202,2010-10-19,Salty,Hand Pump,NGO,Functional
+203,2000-05-25,Good,Hand Pump,Private,Broken
+204,2017-08-02,Good,Hand Pump,NGO,Functional
+205,1990-11-29,,Hand Pump,Gov,Broken
+206,1991-08-13,Salty,Hand Pump,NGO,Broken
+207,1990-06-20,Good,Hand Pump,Gov,Broken
+208,2006-05-09,Good,Submersible,NGO,Broken
+209,2017-03-18,Salty,Hand Pump,Private,Broken
+210,2014-09-11,Good,Hand Pump,Private,Broken
+211,2014-07-28,Good,Hand Pump,NGO,Functional
+212,2006-05-01,,Hand Pump,NGO,Broken
+213,1990-12-05,Good,Hand Pump,NGO,Broken
+214,2013-06-04,,Hand Pump,Private,Functional
+215,2011-10-19,Good,Submersible,Private,Broken
+216,1999-01-24,Milky,Hand Pump,Private,Broken
+217,2004-12-08,Milky,Hand Pump,Gov,Broken
+218,2019-12-22,Salty,Submersible,Gov,Functional
+219,2006-08-09,Good,Hand Pump,Gov,Broken
+220,2001-10-05,Milky,Hand Pump,Private,Broken
+221,2020-01-26,Good,Submersible,Gov,Broken
+222,2007-09-22,Good,Hand Pump,Gov,Functional
+223,2015-09-29,Milky,Hand Pump,Gov,Functional
+224,2016-06-17,Good,Submersible,Private,Broken
+225,2017-02-13,Good,Hand Pump,Private,Functional
+226,2000-08-09,Good,Hand Pump,NGO,Functional
+227,2005-11-06,Good,Hand Pump,Gov,Functional
+228,1992-08-10,Good,Submersible,Gov,Broken
+229,2019-03-14,Good,Hand Pump,NGO,Functional
+230,2017-08-27,Salty,Hand Pump,Gov,Functional
+231,1996-02-21,,Hand Pump,Gov,Broken
+232,1992-10-31,Good,Hand Pump,Gov,Broken
+233,1991-02-28,Salty,Submersible,Private,Broken
+234,1990-01-03,Good,Hand Pump,NGO,Broken
+235,2001-10-28,Good,Submersible,Gov,Broken
+236,2021-01-02,Good,Submersible,NGO,Functional
+237,2005-06-21,Good,Submersible,Gov,Broken
+238,2019-02-14,Good,Hand Pump,Gov,Functional
+239,1997-01-08,Good,Hand Pump,Gov,Functional
+240,1993-08-27,Milky,Hand Pump,Gov,Broken
+241,2022-12-14,Salty,Submersible,,Functional
+242,1990-08-08,Salty,Hand Pump,,Broken
+243,2007-06-10,Milky,Submersible,,Broken
+244,2005-12-01,Salty,Hand Pump,Gov,Functional
+245,2003-05-07,Good,Hand Pump,Gov,Functional
+246,2008-09-09,Good,Submersible,,Functional
+247,1992-04-02,Good,Submersible,Gov,Functional
+248,1999-03-19,Salty,Submersible,NGO,Broken
+249,2022-01-09,Good,Submersible,Gov,Functional
+250,2019-05-11,Salty,Submersible,NGO,Broken
+251,1998-05-01,Good,Hand Pump,Private,Functional
+252,1995-05-24,Good,Submersible,Gov,Broken
+253,1995-12-08,Good,Submersible,Gov,Broken
+254,1990-11-29,Good,Submersible,NGO,Broken
+255,2019-12-29,Milky,Hand Pump,Gov,Broken
+256,2004-11-23,Milky,Submersible,Gov,Functional
+257,1992-01-30,Good,Hand Pump,NGO,Functional
+258,2011-04-17,Good,Hand Pump,NGO,Broken
+259,1990-05-29,Salty,Submersible,Gov,Broken
+260,2018-09-30,Milky,Hand Pump,Gov,Functional
+261,2015-03-03,Salty,Submersible,Gov,Functional
+262,1992-10-30,Good,Hand Pump,Private,Broken
+263,1994-07-12,Salty,Hand Pump,Gov,Broken
+264,1993-04-09,Good,Submersible,Gov,Broken
+265,2015-09-28,Salty,Submersible,NGO,Broken
+266,2021-12-21,Salty,Hand Pump,Gov,Functional
+267,2021-06-02,Salty,Submersible,NGO,Broken
+268,2017-06-08,Good,Submersible,Gov,Functional
+269,2021-03-06,Good,Hand Pump,NGO,Functional
+270,1994-02-12,Milky,Submersible,NGO,Functional
+271,2011-06-13,Milky,Submersible,Gov,Broken
+272,2008-08-26,Milky,Hand Pump,NGO,Broken
+273,2008-04-20,,Hand Pump,Private,Functional
+274,2018-08-09,Good,Hand Pump,Private,Functional
+275,1997-02-12,Good,Hand Pump,Private,Broken
+276,1997-08-31,Good,Hand Pump,NGO,Functional
+277,2011-12-25,Good,Submersible,Private,Broken
+278,1995-06-18,Milky,Hand Pump,NGO,Broken
+279,2008-10-12,Milky,Submersible,Gov,Broken
+280,2006-09-04,Salty,Hand Pump,Gov,Broken
+281,2001-02-25,Good,Hand Pump,Gov,Broken
+282,1995-08-03,Good,Hand Pump,,Functional
+283,2006-02-11,Good,Hand Pump,NGO,Functional
+284,2007-08-20,Good,Submersible,Gov,Functional
+285,2004-10-29,Good,Hand Pump,Gov,Broken
+286,1993-03-11,Good,Hand Pump,NGO,Broken
+287,2007-07-27,Good,Hand Pump,Private,Broken
+288,2001-11-21,Good,Submersible,NGO,Functional
+289,1998-11-19,Good,Hand Pump,,Broken
+290,2002-05-16,,Hand Pump,Gov,Broken
+291,1998-06-27,Good,Hand Pump,Gov,Broken
+292,2008-06-26,Salty,Hand Pump,,Functional
+293,2010-02-08,Good,Hand Pump,Private,Functional
+294,1993-10-26,Salty,Submersible,NGO,Broken
+295,1997-04-25,Good,Submersible,NGO,Functional
+296,2010-04-26,Good,Hand Pump,Gov,Functional
+297,2021-12-27,Salty,Hand Pump,NGO,Functional
+298,1994-03-05,Salty,Submersible,NGO,Broken
+299,2009-03-17,Good,Hand Pump,Gov,Broken
+300,1995-04-19,Good,Hand Pump,NGO,Broken
+301,2004-01-06,Good,Submersible,NGO,Broken
+302,2014-06-25,Good,Submersible,Gov,Broken
+303,2006-04-17,Good,Hand Pump,Gov,Functional
+304,2016-07-23,Good,Submersible,Gov,Functional
+305,2009-11-22,Salty,Hand Pump,Private,Broken
+306,1991-10-04,Milky,Hand Pump,Gov,Broken
+307,2011-12-23,Good,Hand Pump,Gov,Broken
+308,1990-01-03,Good,Hand Pump,Private,Broken
+309,1994-05-09,Milky,Submersible,Private,Broken
+310,1992-06-30,Good,Submersible,NGO,Broken
+311,2007-07-19,Good,Submersible,Gov,Functional
+312,1995-03-31,Good,Hand Pump,Private,Broken
+313,2012-09-09,Good,Submersible,Gov,Functional
+314,1995-02-06,Good,Hand Pump,Private,Broken
+315,2003-01-15,Good,Hand Pump,Gov,Functional
+316,1999-11-12,Good,Hand Pump,Gov,Broken
+317,2008-03-23,Salty,Submersible,NGO,Functional
+318,2003-11-22,Good,Hand Pump,NGO,Broken
+319,1998-10-24,Good,Hand Pump,Private,Functional
+320,2001-02-22,Good,Hand Pump,Gov,Broken
+321,2005-12-11,Milky,Hand Pump,Gov,Broken
+322,1993-04-29,Good,Hand Pump,Gov,Broken
+323,1990-08-28,Good,Hand Pump,Gov,Broken
+324,1992-10-29,,Submersible,Gov,Broken
+325,1991-05-28,Salty,Hand Pump,Gov,Broken
+326,1994-01-16,Good,Hand Pump,Gov,Functional
+327,2015-09-17,Good,Submersible,Gov,Broken
+328,2022-04-11,Good,Hand Pump,Private,Functional
+329,2018-04-15,Good,Hand Pump,NGO,Functional
+330,2016-04-29,Good,Submersible,Gov,Functional
+331,2019-07-24,Good,Submersible,Gov,Broken
+332,1999-09-21,Good,Hand Pump,Private,Functional
+333,1993-12-21,Milky,Hand Pump,Gov,Broken
+334,2018-05-10,Good,Submersible,Gov,Functional
+335,2011-07-11,Good,Hand Pump,Gov,Functional
+336,1992-11-29,Good,Hand Pump,Gov,Broken
+337,2015-08-29,Good,Hand Pump,NGO,Broken
+338,2013-01-24,,Hand Pump,Gov,Functional
+339,2004-03-08,Good,Hand Pump,NGO,Functional
+340,2022-09-12,,Hand Pump,Private,Functional
+341,2016-06-26,Good,Hand Pump,Gov,Broken
+342,2020-02-26,Good,Submersible,Private,Functional
+343,2006-09-14,Good,Hand Pump,NGO,Broken
+344,2008-12-12,Good,Hand Pump,Gov,Functional
+345,2011-11-13,Good,Hand Pump,Gov,Broken
+346,2008-04-02,Good,Hand Pump,Gov,Functional
+347,1997-06-21,,Hand Pump,Gov,Broken
+348,2013-09-19,Milky,Hand Pump,NGO,Broken
+349,2001-01-01,Good,Submersible,Gov,Functional
+350,2014-04-14,Salty,Hand Pump,Gov,Broken
+351,1993-03-04,Good,Hand Pump,Gov,Broken
+352,2014-09-26,Salty,Submersible,Gov,Broken
+353,1996-11-21,,Hand Pump,NGO,Functional
+354,2018-03-01,Salty,Submersible,Gov,Functional
+355,2005-07-17,Good,Hand Pump,Gov,Broken
+356,2007-05-31,Salty,Hand Pump,NGO,Broken
+357,2007-12-16,Good,Submersible,Gov,Broken
+358,2010-04-18,Good,Submersible,Private,Functional
+359,1992-05-10,Good,Hand Pump,Gov,Broken
+360,1999-11-20,Salty,Hand Pump,Private,Broken
+361,2016-10-14,Good,Hand Pump,Gov,Functional
+362,1997-05-03,Good,Hand Pump,,Broken
+363,1992-01-02,Good,Hand Pump,Gov,Functional
+364,2006-07-03,Good,Hand Pump,,Broken
+365,2022-12-29,Good,Hand Pump,NGO,Functional
+366,2020-11-16,Good,Hand Pump,Private,Functional
+367,2018-12-28,Salty,Submersible,Private,Functional
+368,2020-03-29,Good,Hand Pump,NGO,Functional
+369,2007-02-13,Good,Submersible,Gov,Broken
+370,2020-04-20,Milky,Hand Pump,,Functional
+371,2003-08-21,Good,Hand Pump,Gov,Broken
+372,2022-09-11,Good,Hand Pump,Private,Functional
+373,1993-09-25,Good,Hand Pump,NGO,Broken
+374,2000-07-08,Milky,Submersible,Gov,Broken
+375,2004-12-26,Salty,Hand Pump,NGO,Broken
+376,2009-12-17,Good,Hand Pump,Gov,Functional
+377,1997-12-20,Salty,Hand Pump,,Broken
+378,2016-08-31,Good,Submersible,Private,Functional
+379,1996-08-27,Milky,Submersible,,Broken
+380,1998-10-24,Salty,Submersible,Private,Broken
+381,2017-04-16,Good,Hand Pump,Gov,Functional
+382,2000-03-09,Good,Hand Pump,Gov,Broken
+383,2019-11-24,Salty,Hand Pump,NGO,Functional
+384,2022-02-06,Milky,Hand Pump,NGO,Broken
+385,2022-10-02,Good,Submersible,NGO,Broken
+386,1997-08-23,Good,Submersible,NGO,Broken
+387,2008-01-22,Salty,Hand Pump,Gov,Broken
+388,2015-06-30,Good,Submersible,Gov,Functional
+389,2016-04-12,Good,Submersible,NGO,Functional
+390,2001-04-22,Good,Hand Pump,Gov,Broken
+391,1991-05-30,Good,Hand Pump,Private,Functional
+392,2012-06-15,Good,Hand Pump,Gov,Functional
+393,2005-04-10,Good,Hand Pump,NGO,Broken
+394,2017-12-13,Salty,Hand Pump,NGO,Functional
+395,2006-08-23,Milky,Hand Pump,Gov,Broken
+396,2021-07-14,Good,Hand Pump,Private,Functional
+397,2019-12-30,Good,Submersible,Gov,Functional
+398,2015-03-08,Good,Submersible,Gov,Broken
+399,2004-08-09,Good,Hand Pump,Private,Broken
+400,2017-09-07,Milky,Hand Pump,Gov,Functional
+401,2005-11-25,Good,Hand Pump,Gov,Broken
+402,2004-08-06,Salty,Submersible,Gov,Broken
+403,2000-02-14,Good,Hand Pump,Gov,Broken
+404,2014-10-05,Good,Submersible,Gov,Broken
+405,1991-09-10,Salty,Submersible,Gov,Broken
+406,2021-02-13,Good,Hand Pump,Gov,Functional
+407,2008-09-23,Good,Hand Pump,NGO,Broken
+408,2004-03-31,Good,Hand Pump,Gov,Functional
+409,2010-04-27,Good,Hand Pump,Private,Functional
+410,1992-11-29,Milky,Hand Pump,Gov,Broken
+411,2020-09-26,Salty,Hand Pump,NGO,Broken
+412,2009-04-07,Good,Hand Pump,Gov,Functional
+413,2004-09-18,Salty,Hand Pump,Gov,Broken
+414,2017-11-04,,Submersible,Private,Functional
+415,1997-04-02,Salty,Hand Pump,NGO,Broken
+416,1991-11-20,Good,Submersible,Private,Functional
+417,2013-09-15,Good,Hand Pump,Private,Functional
+418,2021-07-27,Good,Submersible,Private,Functional
+419,2022-05-29,Good,Hand Pump,Private,Functional
+420,2005-07-19,Good,Hand Pump,Gov,Functional
+421,2011-09-13,Good,Submersible,NGO,Functional
+422,2021-03-28,Salty,Submersible,Gov,Broken
+423,1997-09-11,Good,Submersible,Gov,Functional
+424,2013-04-17,Good,Hand Pump,Gov,Broken
+425,2019-02-07,Salty,Hand Pump,Private,Broken
+426,2013-10-20,Salty,Hand Pump,NGO,Broken
+427,2015-05-02,Salty,Submersible,Gov,Broken
+428,2002-11-19,Milky,Submersible,NGO,Broken
+429,1995-03-17,Good,Hand Pump,Gov,Broken
+430,2017-04-03,Salty,Hand Pump,,Broken
+431,1994-09-26,Good,Hand Pump,Gov,Broken
+432,2002-05-07,Good,Hand Pump,Gov,Functional
+433,1998-02-24,Salty,Submersible,NGO,Broken
+434,1994-09-01,Good,Submersible,NGO,Broken
+435,2002-12-23,Milky,Hand Pump,NGO,Broken
+436,2005-08-19,Good,Hand Pump,Gov,Functional
+437,2016-12-08,Good,Hand Pump,NGO,Broken
+438,2005-08-08,Good,Submersible,NGO,Functional
+439,2015-05-05,Good,Submersible,NGO,Functional
+440,1999-01-09,Good,Hand Pump,Gov,Broken
+441,2013-09-10,Good,Hand Pump,Gov,Broken
+442,1996-06-29,Good,Hand Pump,Gov,Broken
+443,2022-06-08,Good,Submersible,Gov,Functional
+444,2011-04-09,Good,Submersible,Private,Functional
+445,1990-03-12,Good,Hand Pump,Private,Broken
+446,2005-09-13,Good,Hand Pump,Gov,Broken
+447,2015-05-17,Good,Hand Pump,Gov,Broken
+448,2021-06-03,Good,Hand Pump,Gov,Broken
+449,2001-12-26,Good,Hand Pump,NGO,Functional
+450,1992-07-20,Good,Hand Pump,,Broken
+451,2012-01-01,Good,Submersible,NGO,Broken
+452,1991-07-18,Good,Hand Pump,NGO,Broken
+453,2001-09-21,Good,Submersible,Gov,Broken
+454,2020-01-03,,Hand Pump,,Broken
+455,2018-08-01,Salty,Submersible,NGO,Functional
+456,2019-01-30,Salty,Hand Pump,Gov,Functional
+457,1991-12-16,Good,Hand Pump,NGO,Functional
+458,1995-12-26,Salty,Hand Pump,NGO,Broken
+459,2015-08-01,Good,Hand Pump,Private,Broken
+460,1994-11-02,Good,Submersible,NGO,Broken
+461,2007-05-15,Salty,Hand Pump,Gov,Broken
+462,1994-09-20,Salty,Submersible,Gov,Broken
+463,2017-02-24,Salty,Hand Pump,Gov,Functional
+464,2010-06-22,Salty,Hand Pump,NGO,Broken
+465,2019-09-13,Salty,Submersible,Gov,Functional
+466,2011-05-10,Salty,Hand Pump,NGO,Broken
+467,2005-08-20,Good,Submersible,NGO,Broken
+468,1997-10-23,Good,Hand Pump,Private,Broken
+469,2009-06-17,Good,Hand Pump,NGO,Functional
+470,2007-05-08,Good,Hand Pump,NGO,Functional
+471,2010-04-20,,Submersible,Private,Broken
+472,2013-08-01,Salty,Submersible,Gov,Broken
+473,2010-10-14,Good,Hand Pump,Gov,Broken
+474,2006-12-27,Good,Submersible,NGO,Broken
+475,1990-11-10,Good,Submersible,,Broken
+476,2005-06-18,Good,Hand Pump,NGO,Functional
+477,1990-01-05,Good,Submersible,NGO,Functional
+478,2004-04-15,Good,Submersible,Gov,Functional
+479,2003-09-25,Good,Hand Pump,Private,Functional
+480,2000-10-08,Good,Submersible,Gov,Broken
+481,2013-06-26,Good,Submersible,Private,Broken
+482,2014-07-08,Good,Submersible,Private,Functional
+483,2006-01-05,Good,Hand Pump,,Broken
+484,1995-08-16,Salty,Submersible,Private,Broken
+485,2017-08-02,Milky,Hand Pump,NGO,Functional
+486,2019-05-04,Good,Submersible,Private,Functional
+487,2012-05-19,Good,Submersible,NGO,Functional
+488,2017-03-28,Good,Hand Pump,Gov,Functional
+489,2010-07-16,Salty,Hand Pump,Gov,Broken
+490,2009-10-18,Good,Hand Pump,NGO,Functional
+491,2019-05-29,Good,Hand Pump,Gov,Broken
+492,2006-01-03,Good,Hand Pump,Gov,Functional
+493,1991-04-14,Good,Submersible,Private,Broken
+494,2019-12-06,Good,Hand Pump,Private,Broken
+495,2020-01-09,Salty,Hand Pump,Private,Broken
+496,2006-11-14,Good,Submersible,NGO,Functional
+497,2003-02-18,Good,Hand Pump,Private,Functional
+498,2003-08-27,Milky,Submersible,NGO,Broken
+499,2018-11-02,Good,Hand Pump,Gov,Functional
+500,2013-05-06,Good,Submersible,Gov,Broken
+501,2013-02-10,Salty,Submersible,Private,Functional
+502,2008-12-16,Salty,Hand Pump,NGO,Functional
+503,2008-12-06,Good,Hand Pump,NGO,Broken
+504,1995-06-20,,Hand Pump,NGO,Broken
+505,2011-08-17,Salty,Hand Pump,NGO,Broken
+506,2020-08-09,Good,Hand Pump,Private,Functional
+507,2015-06-10,Good,Submersible,,Functional
+508,2012-02-01,Good,Submersible,Gov,Broken
+509,2013-04-26,Good,Hand Pump,Gov,Functional
+510,2004-05-06,Salty,Hand Pump,Gov,Functional
+511,2016-05-17,Good,Hand Pump,NGO,Functional
+512,2012-10-10,Salty,Submersible,NGO,Broken
+513,2005-04-15,Good,Submersible,Gov,Broken
+514,2010-10-28,Good,Hand Pump,Private,Broken
+515,2001-12-29,Good,Submersible,Gov,Functional
+516,2000-03-18,Milky,Submersible,Gov,Broken
+517,2015-11-07,Milky,Hand Pump,Gov,Broken
+518,2009-11-20,Good,Hand Pump,Gov,Broken
+519,2014-11-09,Good,Hand Pump,Gov,Functional
+520,1995-04-05,Salty,Hand Pump,NGO,Broken
+521,2019-07-21,Salty,Submersible,NGO,Broken
+522,2002-10-23,Good,Submersible,Gov,Broken
+523,2007-05-08,Salty,Hand Pump,NGO,Broken
+524,2004-09-04,Good,Hand Pump,Gov,Broken
+525,2006-10-13,Good,Hand Pump,Gov,Broken
+526,1999-01-15,,Hand Pump,Private,Functional
+527,2003-12-19,Good,Hand Pump,Gov,Broken
+528,2005-09-30,,Submersible,NGO,Functional
+529,2000-12-10,Good,Hand Pump,Gov,Broken
+530,2017-01-15,Milky,Hand Pump,Gov,Functional
+531,2002-09-03,Good,Hand Pump,Gov,Broken
+532,2012-12-24,,Submersible,Gov,Broken
+533,2012-07-16,Good,Hand Pump,Private,Functional
+534,2018-12-19,Good,Submersible,Gov,Functional
+535,2000-02-12,Salty,Hand Pump,Gov,Broken
+536,1995-01-19,Salty,Submersible,Gov,Broken
+537,2019-10-29,Good,Hand Pump,Gov,Functional
+538,1995-05-01,Good,Hand Pump,Gov,Broken
+539,2016-12-03,Salty,Submersible,NGO,Functional
+540,1996-10-18,Good,Hand Pump,NGO,Broken
+541,1999-09-15,Good,Hand Pump,Gov,Functional
+542,1990-05-05,Salty,Hand Pump,Private,Broken
+543,2016-11-15,Milky,Submersible,Private,Functional
+544,2002-07-09,Good,Hand Pump,Gov,Broken
+545,2013-02-26,Milky,Hand Pump,Gov,Broken
+546,2021-09-04,Good,Hand Pump,Gov,Functional
+547,2008-11-21,Good,Submersible,Gov,Broken
+548,2016-08-02,Good,Submersible,Private,Functional
+549,1998-12-12,Good,Submersible,Private,Broken
+550,1998-07-31,Good,Hand Pump,NGO,Functional
+551,2009-08-30,,Submersible,NGO,Broken
+552,1994-12-01,Good,Submersible,NGO,Functional
+553,2015-04-08,Good,Hand Pump,Gov,Functional
+554,2006-06-13,Good,Hand Pump,,Functional
+555,1993-12-24,Good,Hand Pump,Gov,Broken
+556,2015-02-09,Good,Submersible,Gov,Functional
+557,2019-10-01,Good,Submersible,,Broken
+558,2009-01-02,Good,Submersible,Gov,Functional
+559,2000-05-23,Good,Hand Pump,Private,Functional
+560,1998-11-04,Good,Submersible,Gov,Functional
+561,2019-11-20,Milky,Submersible,Private,Functional
+562,2011-07-21,,Hand Pump,Private,Functional
+563,1999-08-05,Good,Submersible,Gov,Broken
+564,2002-02-05,Good,Hand Pump,Gov,Broken
+565,1991-05-18,Good,Hand Pump,Gov,Broken
+566,1997-11-26,Good,Hand Pump,Gov,Broken
+567,2019-08-14,Salty,Submersible,Gov,Functional
+568,2000-02-17,Good,Hand Pump,NGO,Functional
+569,2015-03-10,Good,Submersible,Private,Functional
+570,2004-07-11,Good,Submersible,Gov,Broken
+571,1997-02-01,Good,Submersible,Gov,Broken
+572,1998-01-12,Good,Hand Pump,NGO,Broken
+573,2020-04-17,Good,Submersible,Gov,Functional
+574,2005-11-04,Good,Hand Pump,Gov,Broken
+575,2010-09-24,Good,Hand Pump,Private,Functional
+576,1998-04-02,,Hand Pump,Gov,Broken
+577,1996-01-17,Good,Submersible,Private,Broken
+578,2009-05-18,Good,Hand Pump,NGO,Functional
+579,1999-09-30,Good,Hand Pump,Private,Broken
+580,1990-07-01,Good,Hand Pump,NGO,Broken
+581,2013-09-21,Milky,Hand Pump,NGO,Broken
+582,1998-03-04,Milky,Hand Pump,NGO,Broken
+583,2012-09-10,Good,Submersible,Gov,Functional
+584,2008-05-08,Good,Submersible,Gov,Broken
+585,1997-07-03,Good,Hand Pump,NGO,Broken
+586,2020-01-22,Good,Submersible,Gov,Broken
+587,2011-01-14,Good,Submersible,Gov,Functional
+588,2019-08-07,Good,Hand Pump,NGO,Functional
+589,2013-12-25,Good,Submersible,Private,Functional
+590,1999-08-12,Good,Hand Pump,,Broken
+591,2002-01-31,Good,Hand Pump,NGO,Broken
+592,2021-10-18,Good,Hand Pump,Gov,Broken
+593,2021-07-18,Good,Hand Pump,Gov,Broken
+594,2000-02-08,Milky,Hand Pump,Gov,Broken
+595,2004-02-09,Good,Hand Pump,NGO,Broken
+596,2008-09-18,Good,Hand Pump,Gov,Functional
+597,2012-06-10,Good,Submersible,Gov,Broken
+598,2001-10-31,Good,Hand Pump,Gov,Broken
+599,1996-12-15,Good,Hand Pump,Private,Broken
+600,2014-02-08,Milky,Submersible,Gov,Functional
+601,1996-01-03,Good,Submersible,,Broken
+602,2022-09-11,Salty,Hand Pump,,Functional
+603,2012-07-18,Good,Submersible,NGO,Broken
+604,1999-08-12,Good,Hand Pump,,Functional
+605,2003-11-09,Good,Hand Pump,Gov,Broken
+606,2016-10-09,Good,Hand Pump,Gov,Functional
+607,2015-10-26,Good,Submersible,Gov,Broken
+608,2000-06-17,Good,Hand Pump,NGO,Broken
+609,2018-12-07,Good,Submersible,NGO,Functional
+610,2022-01-16,Good,Submersible,Gov,Broken
+611,1991-05-27,Good,Hand Pump,,Broken
+612,2004-06-16,Salty,Hand Pump,NGO,Broken
+613,2006-04-27,Good,Submersible,Gov,Functional
+614,2009-05-02,Good,Hand Pump,Gov,Broken
+615,2001-10-14,Good,Hand Pump,Gov,Functional
+616,2021-04-02,Good,Submersible,Gov,Broken
+617,1992-08-08,Good,Hand Pump,Private,Broken
+618,1998-06-30,Salty,Submersible,NGO,Broken
+619,2012-03-04,Good,Hand Pump,Gov,Functional
+620,2019-08-22,Salty,Hand Pump,,Functional
+621,1999-09-16,Good,Submersible,NGO,Broken
+622,2009-12-15,Good,Submersible,Gov,Functional
+623,2012-12-28,Good,Submersible,Private,Broken
+624,2019-11-28,Good,Submersible,NGO,Broken
+625,2001-04-23,Good,Hand Pump,Private,Functional
+626,2001-06-12,Good,Hand Pump,Private,Functional
+627,2012-05-03,Good,Hand Pump,Gov,Functional
+628,2013-04-14,Good,Hand Pump,NGO,Functional
+629,2019-09-19,Good,Submersible,Private,Functional
+630,1997-08-24,Good,Hand Pump,Private,Broken
+631,1995-05-26,Good,Submersible,Gov,Broken
+632,2019-03-14,,Hand Pump,Private,Broken
+633,2021-07-20,Good,Hand Pump,Gov,Functional
+634,2030-01-01,Good,Hand Pump,Gov,Functional
+635,2008-12-28,Good,Submersible,NGO,Broken
+636,2008-04-02,Good,Submersible,NGO,Broken
+637,2022-03-21,Salty,Hand Pump,Private,Functional
+638,2014-02-26,Good,Hand Pump,NGO,Functional
+639,2015-03-11,Salty,Hand Pump,NGO,Functional
+640,1994-01-01,Good,Hand Pump,NGO,Broken
+641,2021-07-30,,Submersible,Private,Functional
+642,1998-11-29,Salty,Submersible,Gov,Broken
+643,2001-12-02,Good,Hand Pump,Private,Functional
+644,2017-10-09,Good,Submersible,NGO,Broken
+645,2007-06-18,Good,Hand Pump,Gov,Functional
+646,1999-08-23,Good,Hand Pump,Private,Functional
+647,2016-02-24,Good,Hand Pump,Private,Functional
+648,2020-10-04,Good,Hand Pump,Gov,Functional
+649,1992-06-18,Milky,Submersible,Gov,Broken
+650,1992-02-25,Good,Hand Pump,,Functional
+651,2001-01-22,Good,Hand Pump,,Broken
+652,2007-07-09,Salty,Hand Pump,Private,Broken
+653,2006-11-11,Good,Submersible,Gov,Broken
+654,1999-01-22,Good,Submersible,NGO,Functional
+655,2000-01-03,Good,Hand Pump,Private,Broken
+656,2001-10-05,Good,Hand Pump,Gov,Broken
+657,2004-07-14,Milky,Submersible,Private,Broken
+658,2002-12-31,Good,Hand Pump,Gov,Functional
+659,2003-08-05,,Hand Pump,NGO,Functional
+660,2003-02-07,,Submersible,,Broken
+661,1992-09-10,Good,Hand Pump,Private,Broken
+662,2010-11-14,Good,Hand Pump,Private,Broken
+663,1999-03-11,Milky,Hand Pump,NGO,Broken
+664,2002-03-06,Good,Hand Pump,Gov,Functional
+665,2019-11-18,Good,Hand Pump,NGO,Functional
+666,1998-01-21,Good,Submersible,NGO,Broken
+667,1990-10-09,Good,Hand Pump,Private,Functional
+668,2015-09-19,Good,Hand Pump,NGO,Functional
+669,2002-09-12,Milky,Hand Pump,Gov,Broken
+670,2016-11-22,Good,Hand Pump,NGO,Broken
+671,1993-11-01,Good,Hand Pump,NGO,Functional
+672,1997-06-18,Good,Submersible,Gov,Broken
+673,1996-03-02,Milky,Hand Pump,Gov,Broken
+674,2016-02-01,Good,Submersible,NGO,Broken
+675,2007-03-30,,Hand Pump,Private,Broken
+676,2002-08-07,Good,Hand Pump,Private,Functional
+677,2001-10-06,Salty,Submersible,NGO,Broken
+678,1999-02-13,Good,Submersible,Gov,Functional
+679,1999-03-17,Salty,Hand Pump,NGO,Functional
+680,2000-01-13,Milky,Submersible,Gov,Broken
+681,2013-12-22,Good,Hand Pump,Gov,Functional
+682,2002-05-15,Good,Hand Pump,Gov,Broken
+683,2006-08-02,Good,Submersible,Private,Functional
+684,2022-01-07,Good,Hand Pump,Gov,Functional
+685,2016-10-02,Good,Hand Pump,Gov,Functional
+686,1997-10-03,Good,Hand Pump,Gov,Functional
+687,2016-03-05,Good,Submersible,Private,Functional
+688,2001-12-01,Good,Hand Pump,Gov,Broken
+689,2008-05-16,Salty,Hand Pump,Private,Broken
+690,1991-12-05,Good,Hand Pump,Gov,Broken
+691,2017-01-29,Good,Hand Pump,NGO,Functional
+692,2012-03-21,Good,Hand Pump,,Functional
+693,2020-08-24,Good,Hand Pump,Private,Functional
+694,2014-02-12,Good,Submersible,,Functional
+695,2000-07-06,Salty,Submersible,NGO,Broken
+696,2005-11-10,Good,Hand Pump,,Broken
+697,2030-01-01,Good,Submersible,Gov,Broken
+698,1990-09-23,Good,Submersible,Private,Functional
+699,1999-09-06,Milky,Submersible,Gov,Broken
+700,2005-11-11,Salty,Hand Pump,NGO,Broken
+701,2006-09-16,Good,Submersible,NGO,Broken
+702,1996-10-08,Salty,Submersible,Gov,Broken
+703,1994-07-02,Good,Hand Pump,Gov,Broken
+704,2013-10-16,Good,Hand Pump,Gov,Broken
+705,1993-07-21,Milky,Hand Pump,NGO,Broken
+706,1996-01-06,Good,Hand Pump,Gov,Broken
+707,1992-12-08,,Submersible,Gov,Broken
+708,2013-10-25,Good,Hand Pump,Private,Broken
+709,2011-04-15,Good,Hand Pump,Gov,Broken
+710,1996-07-16,Good,Hand Pump,Gov,Broken
+711,1991-11-17,Good,Submersible,Gov,Broken
+712,2002-07-15,Good,Submersible,Gov,Broken
+713,1993-02-06,Good,Hand Pump,Private,Broken
+714,2002-05-29,Salty,Hand Pump,Gov,Broken
+715,2010-04-30,Salty,Hand Pump,,Broken
+716,2001-02-09,,Hand Pump,Private,Broken
+717,2007-02-12,Salty,Submersible,NGO,Functional
+718,2018-01-28,Good,Hand Pump,Gov,Functional
+719,1999-04-13,Good,Hand Pump,Private,Broken
+720,2018-12-25,Good,Hand Pump,NGO,Functional
+721,1991-03-08,,Submersible,Gov,Broken
+722,2016-01-06,Good,Hand Pump,Gov,Functional
+723,1995-06-13,Good,Hand Pump,Gov,Broken
+724,2016-06-02,Good,Submersible,Gov,Functional
+725,2003-06-27,Good,Submersible,Gov,Broken
+726,2001-10-26,,Submersible,Private,Functional
+727,1998-04-28,Good,Hand Pump,Private,Functional
+728,2000-05-05,Good,Submersible,NGO,Functional
+729,2010-10-14,Good,Hand Pump,NGO,Broken
+730,2013-10-30,Good,Submersible,NGO,Functional
+731,2013-12-15,Good,Hand Pump,NGO,Functional
+732,1998-11-30,Salty,Hand Pump,Gov,Broken
+733,2001-11-22,Good,Submersible,Gov,Broken
+734,2008-04-23,Good,Hand Pump,Gov,Broken
+735,1992-10-16,Good,Submersible,Private,Functional
+736,2005-07-31,Good,Hand Pump,Gov,Functional
+737,2021-05-11,Good,Submersible,Private,Broken
+738,1998-10-01,Salty,Hand Pump,,Broken
+739,2021-02-03,Good,Submersible,Gov,Broken
+740,1999-03-30,Good,Hand Pump,NGO,Broken
+741,1994-07-06,Good,Submersible,Gov,Broken
+742,2000-11-18,Good,Hand Pump,Gov,Broken
+743,1998-12-22,Good,Submersible,Gov,Broken
+744,2015-04-08,Salty,Hand Pump,NGO,Functional
+745,2013-11-01,Salty,Submersible,Gov,Broken
+746,2016-02-27,Milky,Hand Pump,Private,Broken
+747,1990-09-17,Salty,Hand Pump,NGO,Broken
+748,2013-02-08,Good,Hand Pump,Gov,Broken
+749,1994-06-10,Good,Submersible,Gov,Broken
+750,1990-11-17,Milky,Hand Pump,Gov,Broken
+751,1999-01-09,Good,Submersible,Gov,Broken
+752,2019-07-23,Good,Hand Pump,Private,Functional
+753,2000-11-15,Good,Hand Pump,Gov,Broken
+754,2007-11-22,,Submersible,Gov,Broken
+755,2013-11-02,Good,Submersible,NGO,Functional
+756,1996-01-16,Salty,Submersible,Gov,Broken
+757,2009-09-16,,Submersible,Gov,Broken
+758,1993-09-19,Good,Hand Pump,NGO,Broken
+759,1992-08-17,Good,Hand Pump,NGO,Broken
+760,2020-01-04,Salty,Hand Pump,NGO,Broken
+761,2014-06-23,Salty,Submersible,Gov,Broken
+762,2005-12-26,Good,Submersible,Gov,Functional
+763,2003-11-10,Milky,Hand Pump,Gov,Broken
+764,2002-03-05,,Submersible,Gov,Broken
+765,1992-07-24,Good,Hand Pump,Gov,Broken
+766,2011-09-26,Salty,Hand Pump,Gov,Broken
+767,1997-07-11,Good,Hand Pump,Private,Broken
+768,1994-03-05,Good,Hand Pump,Private,Broken
+769,1996-01-07,Milky,Submersible,NGO,Broken
+770,2013-07-20,Good,Submersible,Private,Functional
+771,1990-04-20,Salty,Submersible,Gov,Broken
+772,2010-06-22,Good,Submersible,Gov,Broken
+773,2008-02-29,Good,Hand Pump,Gov,Functional
+774,2000-05-09,Good,Hand Pump,Gov,Functional
+775,2005-08-14,Good,Submersible,Private,Broken
+776,2022-01-13,Good,Submersible,NGO,Functional
+777,2014-10-16,Salty,Hand Pump,Private,Broken
+778,1991-09-07,Good,Hand Pump,Gov,Broken
+779,2012-10-30,Milky,Submersible,Private,Functional
+780,2006-07-21,Good,Hand Pump,Gov,Functional
+781,1991-05-23,Good,Submersible,Gov,Broken
+782,1998-08-18,Milky,Submersible,NGO,Functional
+783,2001-06-12,Good,Hand Pump,NGO,Broken
+784,2022-02-04,Good,Hand Pump,Gov,Broken
+785,2018-10-06,Salty,Hand Pump,Private,Functional
+786,2013-09-16,Good,Submersible,,Broken
+787,2010-02-22,Good,Hand Pump,NGO,Broken
+788,2010-06-25,Good,Hand Pump,Private,Functional
+789,1995-01-16,Milky,Submersible,Gov,Broken
+790,2004-03-08,Good,Hand Pump,Gov,Broken
+791,2017-09-10,Good,Hand Pump,NGO,Functional
+792,2018-03-25,Good,Submersible,NGO,Broken
+793,1992-01-27,Good,Submersible,NGO,Functional
+794,1998-08-26,Good,Hand Pump,NGO,Broken
+795,1990-01-27,Good,Hand Pump,NGO,Broken
+796,1998-08-05,Good,Hand Pump,Gov,Broken
+797,1993-12-30,Good,Hand Pump,Gov,Broken
+798,1999-04-08,Good,Submersible,Gov,Broken
+799,1997-08-16,Good,Hand Pump,Gov,Broken
+800,2002-12-01,Salty,Submersible,,Functional
