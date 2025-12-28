@@ -59,11 +59,6 @@ mlProjects_Mehdi/
 │       └── generer_notebook_intermediaire_projet_01.py
 │
 ├── Projet_02/ to Projet_20/       # Same structure for all 20 projects
-│
-└── Evaluation_Resources/          # ⚖️ The Grading Engine
-    ├── marking_sheet.md           # Checklist: questions for the jury to ask
-    ├── scoring_guide.md           # Ideal answers and 0-5 scoring rubric
-    └── gemini_prompts.md          # AI-assisted grading via Google Sheets / Gemini
 ```
 
 ---
