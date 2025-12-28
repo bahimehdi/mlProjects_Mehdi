@@ -1,5 +1,4 @@
 # 🏆 Data Science Competition & Education Kit
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
