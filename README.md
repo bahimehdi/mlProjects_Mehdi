@@ -252,15 +252,3 @@ This repository is licensed under **Creative Commons Attribution–NonCommercial
 You are free to use, modify, and share this material **for learning, teaching, and academic practice only**.
 
 ❌ Commercial use, paid courses, resale, or monetization of this content (or derivatives) is not permitted.
-
----
-
-## 🤝 Contribution
-
-This kit is authored and maintained by **Mehdi**. Each project has been designed against strict industry standards to ensure students learn "Safe Data Science" practices.
-
-**Feedback?** Open an issue or submit a pull request!
-
----
-
-*Happy Learning!* 🚀
