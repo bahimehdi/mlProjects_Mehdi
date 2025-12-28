@@ -1,4 +1,5 @@
 # 🏆 Data Science Competition & Education Kit
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
@@ -15,7 +16,9 @@
 - [Technology Stack](#technology-stack)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Evaluation Standards](#evaluation-standards)
-- [Appendix: Taches.pdf Breakdown](#appendix-tachespdf-breakdown)
+- [Appendix: Project Folder Contents](#appendix-project-folder-contents)
+- [Notebook Generation (Scripts Folder)](#-notebook-generation-scripts-folder)
+- [License](#license)
 
 ---
 
@@ -50,7 +53,10 @@ mlProjects_Mehdi/
 │   ├── energie_solaire.csv        # The raw dataset
 │   ├── taches.pdf                 # The task sheet (business context, requirements)
 │   ├── Projet_01_Debutant.ipynb   # Beginner: Guided solution with full code
-│   └── Projet_01_Intermediaire.ipynb # Intermediate: Template with instructions only
+│   ├── Projet_01_Intermediaire.ipynb # Intermediate: Template with instructions only
+│   └── scripts/                   # 🛠️ Notebook Generation Scripts
+│       ├── generer_notebook_debutant_projet_01.py
+│       └── generer_notebook_intermediaire_projet_01.py
 │
 ├── Projet_02/ to Projet_20/       # Same structure for all 20 projects
 │
@@ -203,10 +209,6 @@ All projects are built using the following standard Python libraries:
     *   `dataset.csv`
     *   `taches.pdf`
     *   (Optional) `*_Intermediaire.ipynb` as a starter template.
-3.  **Grade with Precision**: Use the `Evaluation_Resources/` folder:
-    *   `marking_sheet.md`: The oral exam checklist.
-    *   `scoring_guide.md`: The rubric with ideal answers.
-    *   `gemini_prompts.md`: Prompts to automate grading via AI.
 
 ### For Self-Learners
 1.  **Start with Beginner**: Open `*_Debutant.ipynb` and run every cell. Understand *why* each step is taken.
@@ -230,9 +232,19 @@ These projects are designed to catch common Data Science pitfalls. The Evaluatio
 
 ---
 
-## Appendix: Taches.pdf Breakdown
+## Appendix: Project Folder Contents
 
-Each project folder contains a `taches.pdf` file. This is the **Task Sheet** given to students. It contains:
+Each project folder (`Projet_XX/`) contains the following files:
+
+| File | Description |
+|:---|:---|
+| `dataset.csv` | The raw dataset (e.g., `energie_solaire.csv`, `fraude_carte_credit.csv`) |
+| `taches.pdf` | The **Task Sheet** given to students with business context and requirements |
+| `Projet_XX_Debutant.ipynb` | Beginner notebook: Fully guided solution with all code provided |
+| `Projet_XX_Intermediaire.ipynb` | Intermediate notebook: Template with empty code cells |
+| `scripts/` | 🛠️ Python scripts to regenerate the notebooks programmatically |
+
+### What's in `taches.pdf`?
 
 1.  **Business Context**: A short story explaining *why* this analysis is needed (e.g., "The grid operator needs to predict solar output to balance load").
 2.  **Dataset Description**: Column definitions, data types, and expected target variable.
@@ -241,6 +253,91 @@ Each project folder contains a `taches.pdf` file. This is the **Task Sheet** giv
 5.  **Expected Features/Results**: Links to `FeaturesPrevus.pdf` or `ResultatPrevus.pdf` for specific targets.
 
 **Purpose:** The `taches.pdf` is the *only document* given to participants in a competition setting. It deliberately omits code hints—forcing students to design their own solution.
+
+---
+
+## 🛠️ Notebook Generation (Scripts Folder)
+
+**For Contributors & Maintainers:**
+
+Each project folder now includes a `scripts/` directory containing Python scripts to automatically generate the `.ipynb` notebooks. This ensures consistency between the Beginner and Intermediate versions and allows for rapid iteration on content.
+
+### Scripts Folder Structure
+
+```text
+Projet_XX/scripts/
+├── generer_notebook_debutant_projet_XX.py      # Generates the Beginner notebook
+├── generer_notebook_intermediaire_projet_XX.py # Generates the Intermediate notebook
+└── taches_content.txt                          # (Optional) Task content for reference
+```
+
+### How the Generators Work
+
+The generator scripts use the `nbformat` library to programmatically create Jupyter notebooks:
+
+```python
+import nbformat as nbf
+
+def generer_notebook_debutant():
+    nb = nbf.v4.new_notebook()
+    
+    # Add markdown cells for explanations
+    nb.cells.append(nbf.v4.new_markdown_cell("""
+    # 📊 Project Title
+    ## Introduction and objectives...
+    """))
+    
+    # Add code cells with pre-filled solutions
+    nb.cells.append(nbf.v4.new_code_cell("""
+    import pandas as pd
+    df = pd.read_csv('dataset.csv')
+    """))
+    
+    # Save the notebook
+    nbf.write(nb, 'Projet_XX_Debutant.ipynb')
+```
+
+### What the Generators Include
+
+| Component | Beginner Version | Intermediate Version |
+|:---|:---|:---|
+| **Theory Explanations** | ✅ Full markdown explanations | ✅ Same explanations |
+| **Code Cells** | ✅ Complete, runnable code | ❌ Empty with `# Votre code ici` |
+| **TODO Sections** | ✅ Practice exercises with hints | ✅ Main task (no hints) |
+| **Session Structure** | ✅ 3 sessions (~45 min each) | ✅ Same structure |
+| **Bonus Tasks** | ✅ Extra challenges | ✅ Same challenges |
+
+### How to Regenerate Notebooks
+
+To regenerate the notebooks for any project, run the corresponding script. Replace `XX` with the project number (e.g., `03`, `17`, `19`):
+
+```bash
+# Navigate to the project folder
+cd Projet_XX
+
+# Generate Beginner Notebook
+python scripts/generer_notebook_debutant_projet_XX.py
+
+# Generate Intermediate Notebook
+python scripts/generer_notebook_intermediaire_projet_XX.py
+```
+
+**Or from the repository root:**
+
+```bash
+python Projet_XX/scripts/generer_notebook_debutant_projet_XX.py
+python Projet_XX/scripts/generer_notebook_intermediaire_projet_XX.py
+```
+
+> **Note:** This will overwrite the existing `.ipynb` files in the project folder with the latest content defined in the scripts. Always commit your changes before regenerating.
+
+### Why Use Generator Scripts?
+
+1. **Consistency**: Ensures Beginner and Intermediate notebooks follow identical session structures.
+2. **Version Control**: Python scripts are easier to diff and review than JSON-based `.ipynb` files.
+3. **Rapid Iteration**: Update content once in the script, regenerate both notebook versions.
+4. **Collaboration**: Multiple contributors can work on different sections without merge conflicts.
+5. **Quality Control**: The same pedagogical structure is enforced across all 20 projects.
 
 ---
 
