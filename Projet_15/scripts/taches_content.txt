@@ -1,0 +1,47 @@
+PROJET 15 : Optimiseur d'Annulation d'Hôtel
+OBJECTIF DU PROJET
+Les chambres vides coûtent de l'argent. Prédire les annulations permet aux hôtels de surréserver
+légèrement ou d'offrir des offres de dernière minute.
+FICHIER DE DONNÉES
+     annulation_hotel.csv
+     800 lignes
+     Inclut des valeurs manquantes, valeurs aberrantes et déséquilibres pour un apprentissage
+réaliste
+TÂCHES À RÉALISER
+■ TÂCHE PRINCIPALE
+Prédire la probabilité de Annule
+■ TÂCHES SECONDAIRES (OPTIONNELLES)
+    1. Suggérer une "Limite de Surréservation" (Combien de chambres supplémentaires vendre)
+    2. Segmenter les clients par Fiabilité
+    3. Analyser l'impact du "Type de Dépôt" (Non remboursable vs Annulation gratuite)
+    4. Prédire "No-Show" vs "Annulation" (No-show est pire)
+LIVRABLES ATTENDUS
+    1. **Exploration des Données (EDA)**
+     Analyse statistique descriptive
+     Visualisations des distributions
+     Analyse des corrélations
+     Identification des valeurs manquantes et aberrantes
+    2. **Ingénierie des Fonctionnalités**
+     Création de nouvelles variables pertinentes
+
+     Transformation des variables existantes
+     Encodage des variables catégorielles
+     Normalisation/Standardisation si nécessaire
+    3. **Modélisation**
+     Choix et justification du/des modèle(s)
+     Entraînement et validation
+     Optimisation des hyperparamètres
+     Évaluation avec métriques appropriées
+    4. **Résultats et Interprétation**
+     Performance du modèle principal
+     Résultats des tâches secondaires (si réalisées)
+     Insights et recommandations
+     Visualisations des résultats
+CONSEILS
+     Commencez par une exploration approfondie des données
+     L'ingénierie des fonctionnalités est CRUCIALE pour ce projet
+     Documentez votre démarche et vos choix
+     Comparez plusieurs approches si possible
+     Pensez à l'aspect pratique et utilisable de vos résultats
+Bon travail ! ■
+
